@@ -1,6 +1,6 @@
 # Spotify Music History
 
-View your Spotify music history in realtime. Tutorial:
+View your Spotify music history in realtime. Tutorial: https://pusher.com/tutorials/spotify-history-react-node
 
 ## Getting Started
 
